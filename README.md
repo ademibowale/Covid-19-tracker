@@ -17,8 +17,13 @@
 
 To get a local copy up and running follow these simple example steps.
 
+## Screenshot
+![screenshot](./src/components/img/Screenshot.png)
+![screenshot](./src/components/img/Screenshotr.png)
+![screenshot](./src/components/img/Screenshott.png)
+![screenshot](./src/components/img/Screenshotu.png)
 
-## Live Demo
+## Loom Video
 
 Loom video- [watch](https://www.loom.com/share/b9a3779010c649cbb1c4a6c664f28c91)
 
