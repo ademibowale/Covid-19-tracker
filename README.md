@@ -1,6 +1,6 @@
 # covid-19-tracker
 
-> This project is a web application the corona virus pandemic showing the world statistics, fetching the data from an API.
+> This project is a web application for the corona virus pandemic showing the world statistics, fetching the data from an API.
 
 
 ## Built With
@@ -13,7 +13,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-Loom video- [watch]()
+Loom video- [watch](https://www.loom.com/share/b9a3779010c649cbb1c4a6c664f28c91)
 
 
 ### Clone this repository
