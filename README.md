@@ -5,8 +5,16 @@
 
 ## Built With
 
-- HTML, CSS, Javascript
-- Webpack, Stylelint, ESlint, React JS, React Router, Redux, Redux Logger, Jest, Github Actions
+- HTML, CSS, Javascript.
+- Webpack.
+- Stylelint. 
+- Linters. 
+- React JS. 
+- React Router. 
+- Redux. 
+- Redux Logger. 
+- Jest. 
+- Github Actions.
 
 To get a local copy up and running follow these simple example steps.
 
