@@ -12,7 +12,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fd5294;
+  background-color: #8552fd;
   display: flex;
   flex-direction: column;
 }
@@ -62,7 +62,7 @@ li {
 .navBar {
   position: fixed;
   width: 100%;
-  background-color: #e84a88;
+  background-color: orangered;
   padding: 15px;
   top: 0;
 }
@@ -176,7 +176,7 @@ code {
 }
 
 .statistics > div ul li:nth-child(even) {
-  background-color: #cf4278;
+  background-color: #7342cf;
 }
 
 .overlay {
@@ -185,11 +185,11 @@ code {
 }
 
 .dark {
-  background: rgba(219, 70, 129, 0.8);
+  background: #ff4500;
 }
 
 .light {
-  background: rgba(207, 66, 120, 0.3);
+  background: #3f1e6b4d;
 }
 
 .searchContainer input {
