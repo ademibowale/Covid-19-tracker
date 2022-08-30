@@ -1,4 +1,4 @@
-# covid-19
+# covid-19-tracker
 
 > This project is a web application the corona virus pandemic showing the world statistics, fetching the data from an API.
 
@@ -13,26 +13,18 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Live demo](https://react-capstone-hamid.herokuapp.com/)
+Loom video- [watch]()
 
-Loom video- [watch](https://www.loom.com/share/b2dcada22a54415f9082a78937da754b?from_recorder=1&focus_title=1)
 
-## Screenshots
-![screenshot](./src/components/img/desktop1.PNG)
-![screenshot](./src/components/img/desktop2.PNG)
-![screenshot](./src/components/img/desktop3.PNG)
-![screenshot](./src/components/img/mobile1.PNG)
-![screenshot](./src/components/img/mobile2.PNG)
-![screenshot](./src/components/img/mobile3.PNG)
 ### Clone this repository
 
 To clone the repo run:
 ```
-git clone https://github.com/abdulhamiid/covid-19.git  
+git clone https://github.com/ademibowale/Covid-19-tracker.git  
 ```
 To access the cloned directory, run:
 ```
-cd covid-19
+cd covid-19-tracker
 ```
 
 ## Basic Setup
@@ -48,17 +40,17 @@ Run ```npm start```
 
 ## Author
 
-👤 **Abdulhamid**
+👤 **Ademibowale**
 
-- GitHub: [abdulhamiid](https://github.com/abdulhamiid)
-- Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio)
-- LinkedIn: [Adio Abdulhamid](https://linkedin.com/)
+- GitHub: [ademibowale](https://github.com/ademibowale)
+- Twitter: [@Ademibowale]ttps://twitter.com/Ademibowale1)
+- LinkedIn: [tech-adebowale-adegboye](https://www.linkedin.com/in/tech-adebowale-adegboye/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ademibowale/Covid-19-tracker/issues).
 
 ## Show your support
 
