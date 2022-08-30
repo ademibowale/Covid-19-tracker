@@ -6,9 +6,9 @@ function About() {
     <>
       <Nav />
       <div className="aboutPage">
-        <h1>Developed by Ademibowale</h1>
+        <h1>Developed by Abdulhamid</h1>
         <p>
-          <a href="https://github.com/ademibowale/Covid-19-tracker" target="_blank" rel="noreferrer">view source</a>
+          <a href="https://github.com/abdulhamiid/covid-19" target="_blank" rel="noreferrer">view source</a>
         </p>
       </div>
     </>
