@@ -7,7 +7,6 @@
 
 - HTML, CSS, Javascript.
 - Webpack.
-- Stylelint. 
 - Linters. 
 - React JS. 
 - React Router. 
