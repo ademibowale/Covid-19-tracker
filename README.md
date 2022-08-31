@@ -23,6 +23,11 @@ To get a local copy up and running follow these simple example steps.
 ![screenshot](./src/components/img/Screenshott.png)
 ![screenshot](./src/components/img/Screenshotu.png)
 
+## Live Demo
+
+[Live demo](https://630eee3a4b042e47156f2aa4--musical-horse-43e832.netlify.app/)
+
+
 ## Loom Video
 
 Loom video- [watch](https://www.loom.com/share/b9a3779010c649cbb1c4a6c664f28c91)
