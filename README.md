@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Live demo](https://630eee3a4b042e47156f2aa4--musical-horse-43e832.netlify.app/)
+[Live demo](https://corona-virus-pandemic.netlify.app/)
 
 
 ## Loom Video
