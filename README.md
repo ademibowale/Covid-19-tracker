@@ -18,10 +18,11 @@
 To get a local copy up and running follow these simple example steps.
 
 ## Screenshot
-![screenshot](./src/components/img/Screenshot.png)
-![screenshot](./src/components/img/Screenshotr.png)
-![screenshot](./src/components/img/Screenshott.png)
-![screenshot](./src/components/img/Screenshotu.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/92458236/211628485-03bdc934-a1fc-42a6-9e2f-a968eeba5a15.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/92458236/211628543-c9efea7e-67f8-46c9-b32c-6e6239081fbe.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/92458236/211628593-1430fd1a-c807-4b5a-ba00-dac55baa86b3.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/92458236/211628447-a3371b2d-c51a-4935-a9ef-5c0ffdcbb4d3.png)
+
 
 ## Live Demo
 
@@ -79,5 +80,6 @@ Give a ⭐️ if you like this project!
 
 
 ## 📝 License
+
 
 This project is [MIT](./MIT.md) licensed.
