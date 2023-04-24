@@ -5,16 +5,14 @@ const GET_API = 'CovidMonitor/data/GET_API';
 
 export const getCountries = (payload) => ({
   type: GET_API,
- 
+  payload,
 });
 
 export const getAPIData = () => (dispatch) => {
   fetch(`https://api.covid19tracking.narrativa.com/api/${date}`)
     .then((res) => res.json())
     .then((json) => {
-      const data = objToArr(json);
-      dispatch(getCountries(data));
-    });
+    
 };
 
 const initialState = [];
