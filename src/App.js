@@ -1,20 +1,23 @@
+import './App.css';
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Home from './components/views/Home';
-import About from './components/views/About';
-import NotMatch from './components/views/NotMatch';
-import Cases from './components/views/Cases';
-import SingleContinent from './components/views/SingleContinent';
+import ErrorPage from './components/ErrorPage';
+// import Navbar from './components/Navbar';
+// import Homepage from './components/Homepage';
+// import Details from './components/Details';
 
 function App() {
+  // const [id, setId] = useState('');
+  // const handleDetail = (e) => {
+  // setId(e.target.id);
+  // };
   return (
     <>
+      {/* <Navbar /> */}
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/continent/:continentId" element={<SingleContinent />} />
-        <Route path="/cases/:countryId" element={<Cases />} />
-        <Route path="*" element={<NotMatch />} />
+        <Route path="/" element={<ErrorPage />} />
+        {/* <Route path="/" element={<Homepage handleDetail={handleDetail} />} />
+        <Route path="/details" element={<Details id={id} />} /> */}
       </Routes>
     </>
   );
