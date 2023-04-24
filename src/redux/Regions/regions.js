@@ -19,6 +19,12 @@ export const getAPIRegion = (id) => (dispatch) => {
 
 const initialState = [];
 
+const regionsReducer = (state = initialState, action) => {
+  switch (action.type) {
+    case GET_API_REGION:
+      return [...state.slice(0, 0), ...action.payload];
+    default:
+      return state;
   }
 };
 
