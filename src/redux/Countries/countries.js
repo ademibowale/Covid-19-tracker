@@ -5,7 +5,7 @@ const GET_API = 'CovidMonitor/data/GET_API';
 
 export const getCountries = (payload) => ({
   type: GET_API,
-  payload,
+ 
 });
 
 export const getAPIData = () => (dispatch) => {
